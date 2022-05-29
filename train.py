@@ -8,3 +8,5 @@ FilePath: /0_net_demo/template_hjy/0_template_summarizing_hjy/train.py
 Example:: 
     python ...
 '''
+
+import numpy as np
